@@ -13,6 +13,9 @@ rust-project.json
 *.o
 public/
 .direnv/
+install.sh
+setup.sh
 
 # Local Netlify folder
 .netlify
+
